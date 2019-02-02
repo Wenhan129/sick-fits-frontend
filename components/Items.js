@@ -28,6 +28,7 @@ const ItemList = styled.div`
   margin: 0 auto;
 `;
 
+export { ALL_ITEMS_QUERY };
 export default class Items extends Component {
   render() {
     return (
